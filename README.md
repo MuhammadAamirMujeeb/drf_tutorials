@@ -1,13 +1,22 @@
-creating-a-rest-api-with-django-rest-framework
+**creating-a-rest-api-with-django-rest-framework**
 
-Instructions to run this project locally:
-Clone repository:
-$ git clone https://github.com/StackAbuse/creating-a-rest-api-with-django-rest-framework.git 
-Install requirements:
+**Instructions to run this project locally:**
+
+**1. Clone repository:**
+
+$ git clone git@github.com:MuhammadAamirMujeeb/drf_tutorials.git
+
+**2.** **Install requirements:**
+
 $ pip install -r requirements.txt  
-Set up DB:
+
+**3. Set up DB:**
+
 $ python manage.py makemigrations   
 $ python manage.py migrate   
-Run the app:
+
+**4. Run the app:**
+
 $ python manage.py runserver  
-Thanks for reading.
+
+_**Thanks for reading.**_
